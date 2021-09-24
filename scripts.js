@@ -7,7 +7,7 @@ $('#Mesa').click((event) => {
 $('#Wisp').click((event) => {
   clicked.style.backgroundImage = "url('./Imagines/Wisp_bp.png')";
   $("h1").text("Wisp")
-  $("p").text("The Buffer. Her Reserviors give some sefull modifier to herslf and allies. These buffs are temporary grant maximum healt, healt regen, weapon speed and an aura, which shock nearby enemies. Breach Surge blind foes and open up to finisher for a powerful single strike. The Sol Gate burn enemies alive. This channeling most potential with Reservior buffs.")
+  $("p").text("The Buffer. Her Reserviors give some usefull modifier to herslf and allies. These buffs are temporary grant maximum healt, healt regen, weapon speed and an aura, which shock nearby enemies. Breach Surge blind foes and open up to finisher for a powerful single strike. The Sol Gate burn enemies alive. This channeling most potential with Reservior buffs.")
 })
 
 $('#Sevagoth').click((event) => {
